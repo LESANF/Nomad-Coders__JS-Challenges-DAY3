@@ -1,4 +1,4 @@
-## Nomad-Coders\_\_JS-Challenges-DAY3
+## Languages
 ![issue badge](https://img.shields.io/badge/language-HTML5-orange.svg)
 ![issue badge](https://img.shields.io/badge/language-CSS-informational.svg)
 ![issue badge](https://img.shields.io/badge/language-JS-yellow.svg)
