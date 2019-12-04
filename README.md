@@ -1,5 +1,9 @@
-# Nomad-Coders\_\_JS-Challenges-DAY3
+## Nomad-Coders\_\_JS-Challenges-DAY3
 
-# Demo
+## Test
+
+<input type="checkbox">
+
+## Demo
 
 <img src="demo.gif" width="700" heigth="400">
