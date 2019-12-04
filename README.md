@@ -1,2 +1,5 @@
-# Nomad-Coders__JS-Challenges-DAY3
- 
+# Nomad-Coders\_\_JS-Challenges-DAY3
+
+# Demo
+
+<img src="demo.gif">
