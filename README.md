@@ -2,8 +2,6 @@
 
 ## Test
 
-<input type="checkbox">
-
 ## Demo
 
 <img src="demo.gif" width="700" heigth="400">
