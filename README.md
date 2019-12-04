@@ -1,4 +1,5 @@
 ## Nomad-Coders\_\_JS-Challenges-DAY3
+![issue badge](https://img.shields.io/badge/language-HTML5-orange.svg)
 
 ## Conditions for Challenges
 
