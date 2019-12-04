@@ -2,4 +2,4 @@
 
 # Demo
 
-<img src="demo.gif">
+<img src="demo.gif"  style="width:700; height:400;">
