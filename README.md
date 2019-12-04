@@ -1,13 +1,14 @@
 ## Nomad-Coders\_\_JS-Challenges-DAY3
 
-## Test
+## Conditions for Challenges
 
-# <<<<<<< HEAD
-
-- [x] Test
-- [x] Test
-- [x] Test
-  > > > > > > > 7853fdc9b6de17494c2eec7bfff081eb9dfa2669
+✅ The text of the title should change when the mouse is on top of it.
+✅ The text of the title should change when the mouse is leaves it.
+✅ When the window is resized the title should change.
+✅ On right click the title should also change.
+✅ The colors of the title should come from a color from the colors array.
+✅ DO NOT CHANGE .css, or .html files.
+✅ ALL function handlers should be INSIDE of "superEventHandler"
 
 ## Demo
 
